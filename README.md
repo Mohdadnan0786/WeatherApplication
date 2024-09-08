@@ -6,9 +6,9 @@ Accurate and timely weather information is crucial for personal and professional
 # Objective
 The primary objective of this project is to develop a Weather Application that:
 
-Retrieves and displays real-time weather information using a reliable weather API.
-Offers an intuitive and user-friendly interface for seamless user interaction.
-Provides additional features such as weather forecasts, search functionality for different locations, and responsive design for various devices.
+1. Retrieves and displays real-time weather information using a reliable weather API.
+2. Offers an intuitive and user-friendly interface for seamless user interaction.
+3. Provides additional features such as weather forecasts, search functionality for different locations, and responsive design for various devices.
 # Scope
 <b>User Interface Design:</b> Create a clean, modern, and responsive UI using HTML and CSS to ensure the application is visually appealing and accessible on different devices.<br>
 <b>Weather Data Retrieval:</b> Integrate a weather API (e.g., OpenWeatherMap, WeatherAPI) to fetch real-time weather data and forecasts.<br>

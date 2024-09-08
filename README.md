@@ -13,7 +13,7 @@ Provides additional features such as weather forecasts, search functionality for
 <b>User Interface Design:</b> Create a clean, modern, and responsive UI using HTML and CSS to ensure the application is visually appealing and accessible on different devices.<br>
 <b>Weather Data Retrieval:</b> Integrate a weather API (e.g., OpenWeatherMap, WeatherAPI) to fetch real-time weather data and forecasts.<br>
 <b>JavaScript Functionality:</b> Implement JavaScript to handle API requests, process the received data, and dynamically update the UI with the current weather information.<br>
-<b>Location Search:</b> Provide functionality for users to search for weather information in different cities and locations.
+<b>Location Search:</b> Provide functionality for users to search for weather information in different cities and locations.<br>
 <b>Additional Features:</b> Include features such as temperature in Celsius and Fahrenheit, weather icons, wind speed, humidity, and more.<br>
 <b>Error Handling:</b> Implement error handling for scenarios such as invalid API responses, network issues, and user input errors.<br>
 # Challenges
